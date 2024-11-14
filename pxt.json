@@ -1,5 +1,5 @@
 {
-    "name": "Partner T",
+    "name": "Partner Project",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -27,5 +27,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "pyprj"
 }
